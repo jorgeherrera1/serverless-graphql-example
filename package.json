@@ -1,0 +1,16 @@
+{
+  "name": "graphql-serverless-example",
+  "version": "1.0.0",
+  "description": "graphql serverless example",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jorge Herrera <jorge.herrera.cabrera@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "aws-sdk": "^2.272.1",
+    "graphql": "^0.13.2",
+    "serverless": "^1.28.0"
+  }
+}
